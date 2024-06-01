@@ -14,7 +14,7 @@ const links = [
     label: "Inbox",
     icon: <IconInbox />,
     href: "/",
-    className: "md-4"
+    className: "mb-4"
   },
   {
     label: "Today",
